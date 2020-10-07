@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Diseñointerfaces</string>
+    <string name="bot_n_inicio">Botón1</string>
+    <string name="Botón_borrar">Botón2</string>
+    <string name="Botón_final">Botón3</string>
+    <string name="Aplicacion_1">DiseñoInterfaces</string>
+    <string name="DiseñoInterfaces">APPDiseñoInterfaces</string>
+    <string name="Botón1">Botón1</string>
+    <string name="Botón2">Boton2</string>
+    <string name="Botón3">Boton3</string>
+    <string name="Botóndeshacer">BotonDeshacer</string>
+</resources>
