@@ -7,7 +7,7 @@
     android:orientation="horizontal"
     android:gravity="center_horizontal"
     tools:context=".MainActivity"
-    android:background="#C262D3">
+    android:background="#D11C5B">
 
     <Button
         android:id="@+id/button"
